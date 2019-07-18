@@ -11,9 +11,9 @@
             "loggingOptions": "",
             "registryCredentials": {
               "YourACR": {
-                "username": "${ACR_USER}",
-                "password": "${ACR_PASS}",
-                "address": "${DEVOPS_IOTEDGE_REGISTRY_URL}"
+                "username": "democontainer1",
+                "password": "AWbwJgTHcNZAWqxkUNlJn+rKWm21AM8t",
+                "address": "democontainer1.azurecr.io"
               }
             }
           }
